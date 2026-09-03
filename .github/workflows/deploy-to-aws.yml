@@ -6,7 +6,7 @@ on:
       - infra/*
 
 env:
-  AWS_ROLE_ARN: arn:aws:iam::606030504329:role/TerraCICDOIDCRole
+  AWS_ROLE_ARN: arn:aws:iam::606030504329:role/TerraCICDDemoOIDCRole
 
 permissions:
   id-token: write
